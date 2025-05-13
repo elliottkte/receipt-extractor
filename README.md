@@ -31,7 +31,7 @@ cd receipt-extractor
 
 ### 2. Install dependencies
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 3. Add receipt images
