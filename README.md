@@ -1,6 +1,6 @@
 # Invoice & Receipt Extractor
 
-A Python tool that extracts key information from scanned receipts or invoices using OCR and outputs a clean Excel ledger.
+OCR receipt parser that extracts dates and totals from images using Tesseract and regex.
 
 ## Features
 
